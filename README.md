@@ -1,4 +1,4 @@
-<!DOCTYPE>
+<!DOCTYPE html>
 <Html>
 <head>
 <title> Country </title>
